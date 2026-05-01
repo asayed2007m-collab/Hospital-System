@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res.qrc</file>
+        <file>hospital_logo.png</file>
+        <file>logo_ui.jpeg</file>
+    </qresource>
+</RCC>
